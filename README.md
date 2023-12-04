@@ -29,7 +29,7 @@ Welcome to the Online Code Editor project! This web-based editor allows you to w
 
 ## Getting Started
 
-1. Visit the [Online Code Editor](codepen-clone-mu.vergel.app/) website.
+1. Visit the [Online Code Editor](https://codepen-clone-mu.vercel.app/) website.
 
 2. Start coding directly in the editor.
 
