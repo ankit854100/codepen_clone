@@ -1,12 +1,5 @@
 # Online Code Editor 🚀
 
-[![Website Link]](https://codepen-clone-mu.vercel.app/)
-
-## Video Preview
-
-
-https://github.com/ankit854100/codepen_clone/assets/46422401/8f35245d-fd28-4806-96bd-5500f745c9bd
-
 
 
 ## Overview
